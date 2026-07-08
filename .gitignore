@@ -1,0 +1,45 @@
+# Git ignore patterns for bash scripts repository
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Editor backups
+*.bak
+*.swp
+*.swo
+*.tmp
+*~
+.vscode/
+.idea/
+
+# Certificate and key files (sensitive data)
+*.key
+*.csr
+*.crt
+*.pem
+pass.*
+
+# Archive files
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+*.rar
+
+# Temporary files
+tmp/
+temp/
+*.log
+
+# Output files from scripts
+ProgsWithCourseAssocs.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class

@@ -1,0 +1,17 @@
+- 2026-07-06: docs(readme): sync bash README with current scripts
+- 2026-07-06: feat(certificates): standardize cert scripts and add ECDSA CSR workflow
+- 2026-07-06: feat(bash): Refactored TF-IDF scripts, added sample data and docs
+- 2026-07-05: docs: update certificate management README with complete RSA and ECDSA documentation
+- 2026-07-05: feat: add listCertDetails_ecdsa.sh for detailed ECDSA certificate inspection
+- 2026-07-05: docs: add category READMEs, update main README, and add .gitignore
+- 2026-07-05: refactor: move uniquePrograms.sh to data-processing directory with enhanced documentation
+- 2026-07-05: refactor: move listCertDetails.sh to certificates directory with enhanced documentation
+- 2026-07-05: refactor: move split_with_number_prefix.sh to file-operations directory with enhanced documentation
+- 2026-07-05: refactor: move mkcertreq.sh to certificates directory with enhanced documentation
+- 2026-07-05: docs: comprehensive README with script overview and usage
+- 2022-03-23: Merge pull request #2 from sjamal/main
+- 2022-03-23: Adding my generic CSR generation script used throughout NGSIS/GEMS environemnts at work.
+- 2022-03-23: Merge pull request #1 from sjamal/main
+- 2022-03-23: takes a list of certs and issues openssl command to print cert details.
+- 2022-03-23: older script for splitting files and prefixing numbers, and recent script for outputting grep results from one file (with hits tagged/prefixed) based on string list in another file
+- 2021-11-08: Initializing repo with new read.me
