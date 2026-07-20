@@ -1,11 +1,11 @@
-# Bash Scripts Repository
+# Bash Misc Tools
 
-A personal collection of bash scripts organized by category for certificate management, file operations, and data processing.
+General-purpose bash utility scripts for file operations and data processing. Standalone scripts covering tasks too small for a dedicated repository.
 
 ## Repository Structure
 
 ```
-bash/
+bash-misc-tools/
 ├── README.md                          # Main repository documentation
 ├── .gitignore                         # Git ignore patterns
 └── scripts/
@@ -161,12 +161,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Sarosh Jamal
-
 ## Contributing
 
-Improvements and bug fixes are welcome. Please ensure scripts are tested thoroughly before use in production environments.
+Improvements and bug fixes are welcome. Ensure scripts are tested before use in production environments.
 
-## ⚠️ Disclaimer
+## Related Projects
 
-This repository is a personal collection of scripts used for learning, experimentation, and daily productivity. The code is provided "as is" without any guarantees or warranties of any kind. Use at your own risk.
+- [bash-certificate-tools](https://github.com/sjamal/bash-certificate-tools) — SSL/TLS certificate generation and inspection scripts
+- [bash-tfidf](https://github.com/sjamal/bash-tfidf) — Map-reduce style TF-IDF text scoring pipeline
+- [python-data-processing](https://github.com/sjamal/python-data-processing) — Python ETL and data transformation pipelines
