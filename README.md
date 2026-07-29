@@ -9,6 +9,7 @@ Small Bash utilities for routine infrastructure, certificate, file, and CSV-orie
 ├── certificates/
 ├── data/
 ├── files/
+├── git-tools/
 ├── network/
 ├── CONTRIBUTING.md
 └── README.md
